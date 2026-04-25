@@ -6,6 +6,8 @@ Identitas:
 - Nama: **Danadipa Nugraha**
 - NPM: **065123199**
 
+## Dokumentasi Resmi ada di file DOKUMENTASI.md
+
 ## Fitur Utama
 
 ### 1) Layout Editor Profesional
@@ -128,28 +130,6 @@ npm run dev
 
 Lalu buka `http://localhost:3000`.
 
-## Deployment Guide
-
-### Opsi A - Vercel (paling cepat)
-1. Push project ke GitHub.
-2. Login ke Vercel.
-3. Import repository.
-4. Framework auto-detect: Next.js.
-5. Klik Deploy.
-
-### Opsi B - Build Manual
-```bash
-npm run build
-npm run start
-```
-
-## Catatan Presentasi Video (5-7 menit)
-- Jelaskan layout editor dan alur kerja pipeline.
-- Demo minimal 1 contoh dari tiap kategori fitur utama.
-- Tunjukkan histogram sebelum/sesudah equalization.
-- Jelaskan perbedaan Sobel vs Canny dan opening vs closing.
-- Tampilkan identitas pada header aplikasi.
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
